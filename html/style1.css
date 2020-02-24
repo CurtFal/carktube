@@ -12,6 +12,11 @@ font-family:"Verdana", Geneva, sans-serif;
 color:white;
 white-space: nowrap;
 }
+.centersans h2
+{
+color:white;
+white-space: nowrap;
+}
 .centersans p
 {
 color:white;
