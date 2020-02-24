@@ -10,7 +10,7 @@ jobs:
           arguments: |
             --acl public-read \
             --cache-control "max-age=86400"
-          from: carktube
+          from: html
           overwrite: true
           to: 's3://carktube.com'
 orbs:
