@@ -31,3 +31,16 @@ margin-right: -50%;
 transform: translate(-50%, -50%);
 font-size:2vw;
 }
+
+.imageicons
+{
+	text-align:center;
+	
+}
+
+.imageicons img:hover 
+{
+    outline: #333 solid 4px;
+	outline-color: #63DCFF;
+}
+
