@@ -1,0 +1,37 @@
+body { 
+background-color:#1F1F1F
+}
+
+figure {
+	float: left;
+	margin: 0;
+	text-align:center;
+	padding: 5;
+	margin-left:20px;
+	margin-right:20px;
+}
+
+figcaption {
+	color:white;
+	white-space: nowrap;
+	font-family:"Arial Black", Gadget, sans-serif;
+}
+
+.vidplay
+{
+	font-size: xx-large;
+	margin-left: 100px;
+	margin-top: 50px;
+}
+
+.vidplay figcaption 
+{
+	text-align:left;
+}
+
+.description p
+{
+	font-size: 30px;
+	color:white;
+	
+}

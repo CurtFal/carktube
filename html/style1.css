@@ -2,6 +2,21 @@ body {
 background-color:#1F1F1F
 }
 
+figure {
+	float: left;
+	margin: 0;
+	text-align:center;
+	padding: 5;
+	margin-left:20px;
+	margin-right:20px;
+}
+
+figcaption {
+	color:white;
+	white-space: nowrap;
+	font-family:"Arial Black", Gadget, sans-serif;
+}
+
 .centersans
 {
 text-align:center;
@@ -43,4 +58,3 @@ font-size:2vw;
     outline: #333 solid 4px;
 	outline-color: #63DCFF;
 }
-
