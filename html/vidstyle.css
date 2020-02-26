@@ -14,9 +14,20 @@ figure {
 figcaption {
 	color:white;
 	white-space: nowrap;
+	text-transform: uppercase;
 	font-family:"Arial Black", Gadget, sans-serif;
 }
 
+footer {
+	font-size:30px;
+	text-align:center;
+	position: fixed;
+	left: 0;
+	bottom: 0px;
+	height: 50px;
+	width: 100%;
+	background-color: #151515;
+}
 .vidplay
 {
 	font-size: xx-large;
@@ -29,9 +40,16 @@ figcaption {
 	text-align:left;
 }
 
+.description h3
+{
+	color:#FFB5F5;
+}
+
 .description p
 {
+	
 	font-size: 30px;
 	color:white;
 	
 }
+
