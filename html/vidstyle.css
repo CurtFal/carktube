@@ -33,7 +33,7 @@ footer {
 .vidplay
 {
 	font-size: xx-large;
-	margin-left: 100px;
+	margin-left: 5%;
 	margin-top: 50px;
 }
 
@@ -52,6 +52,7 @@ footer {
 	
 	font-size: 30px;
 	color:white;
+	margin-right: 5%;
 	
 }
 
