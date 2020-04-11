@@ -1,3 +1,7 @@
+a {
+	color:#2323C9;
+}
+
 body { 
 background-color:#1F1F1F
 }
@@ -29,6 +33,22 @@ figcaption {
 	white-space: nowrap;
 	text-transform: uppercase;
 	font-family:"Arial Black", Gadget, sans-serif;
+}
+
+footer a {
+	text-decoration: none;
+	color:#2323C9;
+	-o-transition:.5s;
+	-ms-transition:.5s;
+	-moz-transition:.5s;
+	-webkit-transition:.5s;
+  
+  transition:.5s;
+}
+
+footer a:hover { 
+color:#23B7C9;
+text-shadow: -1px -1px 0 #2323C9, 1px -1px 0 #2323C9, -1px 1px 0 #2323C9, 1px 1px 0 #2323C9;
 }
 
 .centersans
@@ -71,4 +91,10 @@ font-size:2vw;
 {
     outline: #333 solid 4px;
 	outline-color: #63DCFF;
+	-o-transition:.25s;
+	-ms-transition:.25s;
+	-moz-transition:.25s;
+	-webkit-transition:.25s;
+  
+  transition:.25s;
 }
